@@ -1,1 +1,0 @@
-# lvl-0_solutions_contests
