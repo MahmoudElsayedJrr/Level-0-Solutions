@@ -1,3 +1,7 @@
+
+// write by Hoda Kamal
+
+
 #include<iostream>
 using namespace std ;
 
