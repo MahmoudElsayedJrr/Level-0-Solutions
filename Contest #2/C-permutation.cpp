@@ -31,7 +31,7 @@ int main(){
 
 int main()
 {
-    lil_codi_vert();
+    
     int n;
     cin >> n;
     for(int i = 0; i< n ; i++){
