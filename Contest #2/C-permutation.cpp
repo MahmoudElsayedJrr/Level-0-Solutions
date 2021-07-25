@@ -25,3 +25,26 @@ int main(){
 
     return 0 ;
 }
+
+//  Another  Solution If u understand first solution
+//------------------------------------------------------
+
+int main()
+{
+    lil_codi_vert();
+    int n;
+    cin >> n;
+    for(int i = 0; i< n ; i++){
+        if(!(i%2)){
+            cout << n - i << " ";
+        }else{
+            if(n%2 == 0)
+                cout << i << " ";
+            else
+                cout << i+1 << " ";
+        }
+    }
+    return 0;
+}
+
+
