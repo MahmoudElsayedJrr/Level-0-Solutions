@@ -20,6 +20,9 @@ int main(){
  
       for(int i = 0 ; i < b ; i++) cout << "B";
       for(int i = 0 ; i < g ; i++) cout << "G";
+ 
+ //  why Two Looops ?
+ //  because there are at least 1 loop g = 0 or b = 0 --> it's not print 
 
 
     return 0 ;
