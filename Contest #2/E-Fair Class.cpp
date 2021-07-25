@@ -1,3 +1,6 @@
+
+// write by Mahmoud Elsayed
+
 #include<iostream>
 using namespace std ;
 
